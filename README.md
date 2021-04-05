@@ -1,5 +1,7 @@
 <h1><center><b><a href="https://github.com/SuLingGG/OpenWrt-Rpi">OpenWrt-Rpi</a></b></center></h1>
 
+Copied from https://github.com/SuLingGG/OpenWrt-Rpi for tests
+
 ## 快速通道
 
 我不想读文档，请将我快速传送到:
