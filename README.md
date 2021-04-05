@@ -1,6 +1,6 @@
 <h1><center><b><a href="https://github.com/SuLingGG/OpenWrt-Rpi">OpenWrt-Rpi</a></b></center></h1>
 
-Copied from https://github.com/SuLingGG/OpenWrt-Rpi for tests
+# Forked from https://github.com/SuLingGG/OpenWrt-Rpi for tests
 
 ## 快速通道
 
