@@ -9,13 +9,16 @@
 name: Build Raspberry Pi 4 Lean's OpenWrt
 
 on:
-  repository_dispatch:
-    types: [lean, rpi4]
-  workflow_dispatch:
-  schedule:
-    - cron: 0 18 * * *
+#  repository_dispatch:
+#    types: [lean, rpi4]
+#  workflow_dispatch:
+#  schedule:
+#    - cron: 0 18 * * *
 #  watch:
 #    types: started
+push:
+  branches:
+    - master
 
 env:
   REPO_URL: https://github.com/coolsnowwolf/lede
